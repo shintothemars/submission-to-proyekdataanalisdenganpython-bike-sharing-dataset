@@ -1,4 +1,6 @@
 # Dicoding Collection Dashboard ✨
+![image](https://github.com/user-attachments/assets/3252d821-9146-4ad2-8dc2-60048bcb75cf)
+
 
 ## Setup Environment - Anaconda
 ```
